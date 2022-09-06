@@ -1,1 +1,16 @@
 /* BASIC STYLES HERE */
+
+p {
+  margin: 0;
+}
+
+.cart {
+  position: relative;
+  min-height: 95vh;
+}
+
+.cart .cart-pay {
+  position: fixed;
+  right: 0%;
+  bottom: 0%;
+}
